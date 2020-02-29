@@ -1,0 +1,23 @@
+{
+  "id": "1527945",
+  "name": "air-study",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5203288",
+      "name": "声音关闭",
+      "font_class": "shengyinguanbi",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "11372700",
+      "name": "声音",
+      "font_class": "shengyin1",
+      "unicode": "e8b8",
+      "unicode_decimal": 59576
+    }
+  ]
+}
